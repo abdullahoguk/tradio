@@ -1,0 +1,139 @@
+{
+    "stations": {
+        "trt":[
+            {
+                "name":"Radyo 1",
+                "id":"radyo1",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#4b686d",
+                "l-color":"#cdd8ff"
+            },
+            {
+                "name":"TRT FM",
+                "id":"fm",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#fffd85",
+                "l-color":"#fffd85"
+            },
+            {
+                "name":"Radyo 3",
+                "id":"radyo3",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#43085c",
+                "l-color":"#f0cdff"
+            },
+            {
+                "name":"TRT Türkü",
+                "id":"turku",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#384042",
+                "d-color":"#1cc8de",
+                "l-color":"#cdf7ff"
+            },
+            {
+                "name":"TRT Nağme",
+                "id":"nagme",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#384042",
+                "d-color":"#1c63de",
+                "l-color":"#cddfff"
+            },
+            {
+                "name":"TRT Radyo Haber",
+                "id":"haber",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#384042",
+                "d-color":"#b43c3c",
+                "l-color":"#ffcdcd"
+            },
+            {
+                "name":"TRT Çukrova",
+                "id":"b-cukurova",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTCUKUROVA_1@182047/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#529e6e",
+                "l-color":"#cdffe0"
+            },
+            {
+                "name":"TRT Trabzon",
+                "id":"b-trabzon",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTTRABZON_1@181948/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#529e6e",
+                "l-color":"#cdffe0"
+            },
+            {
+                "name":"TRT GAP Diyarbakır",
+                "id":"b-diyarbakir",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTGAP_1@182148/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#529e6e",
+                "l-color":"#cdffe0"
+            },
+            {
+                "name":"TRT Antalya",
+                "id":"b-antalya",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTANTALYA_1@181847/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#529e6e",
+                "l-color":"#cdffe0"
+            },
+            {
+                "name":"TRT Erzurum",
+                "id":"b-erzurum",
+                "description":"",
+                "fav":false,
+                "stream":"https://trtcanlifm-lh.akamaihd.net/i/TRTERZURUM_1@182248/master.m3u8",
+                "logo":"",
+                "logoSVG":"",
+                "color":"#455052",
+                "d-color":"#529e6e",
+                "l-color":"#cdffe0"
+            }
+        ],
+        "other":[]
+    }
+}
