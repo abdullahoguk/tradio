@@ -1,0 +1,16 @@
+{
+    "name":"TRT Radyo",
+    "short_name":"Radyo",
+    "start_url":"../index.html",
+    "display":"standalone",
+    "orientation": "portrait",
+    "background_color":"#d4000c",
+    "description": "TRT Radyo PWA",
+    "icons":[
+        {
+            "src":"assets/main.png",
+            "sizes": "512x512"
+        }
+        
+    ]
+}

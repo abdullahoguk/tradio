@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.00003"
+   height="320"
+   viewBox="0 0 320.00002 320.00001"
+   id="svg8052"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="a (copy 13).svg">
+  <defs
+     id="defs8054">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7345">
+      <stop
+         style="stop-color:#4b686d;stop-opacity:1"
+         offset="0"
+         id="stop7347" />
+      <stop
+         style="stop-color:#424242;stop-opacity:1"
+         offset="1"
+         id="stop7349" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8213"
+       inkscape:collect="always">
+      <stop
+         id="stop8215"
+         offset="0"
+         style="stop-color:#43085c;stop-opacity:1" />
+      <stop
+         id="stop8217"
+         offset="1"
+         style="stop-color:#ac0eee;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8213"
+       id="linearGradient8810"
+       x1="1819.3149"
+       y1="-2100.9199"
+       x2="1924.3547"
+       y2="-2100.9199"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-886.2916,53.569259)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7345"
+       id="linearGradient8832"
+       x1="1451.2112"
+       y1="-2325.9897"
+       x2="1504.9647"
+       y2="-2325.9897"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(438.02785,-211.61851)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8213"
+       id="linearGradient8854"
+       x1="1673.6783"
+       y1="-2075.1802"
+       x2="1739.5026"
+       y2="-2075.1802"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(206.89775,89.180582)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7345"
+       id="linearGradient10096"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1761.134,-1452.6983)"
+       x1="1451.2112"
+       y1="-2325.9897"
+       x2="1504.9647"
+       y2="-2325.9897" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7345"
+       id="linearGradient10098"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1772.4199,-1240.6673)"
+       x1="1440.5804"
+       y1="-2555.4126"
+       x2="1453.3149"
+       y2="-2555.4126" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8213"
+       id="linearGradient1663"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8823531,0,0,1.8823531,-2548.5946,-2247.9433)"
+       x1="1449.5658"
+       y1="-2308.1187"
+       x2="1526.597"
+       y2="-2313.4312" />
+    <linearGradient
+       y2="-2325.9897"
+       x2="1504.9647"
+       y1="-2325.9897"
+       x1="1451.2112"
+       gradientTransform="translate(1761.134,-1452.6983)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient10096-8"
+       xlink:href="#linearGradient7345"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-2555.4126"
+       x2="1453.3149"
+       y1="-2555.4126"
+       x1="1440.5804"
+       gradientTransform="translate(1772.4199,-1240.6673)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient10098-7"
+       xlink:href="#linearGradient7345"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="994.81129"
+     inkscape:cy="-138.65861"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8600"
+       originx="-19.23333"
+       originy="-7538.9257" />
+    <sodipodi:guide
+       position="680.76666,-5038.9253"
+       orientation="1,0"
+       id="guide8602"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,2)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="680.76666,-5038.9253"
+       orientation="0,1"
+       id="guide8604"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="680.76666,-3038.9253"
+       orientation="0,1"
+       id="guide8608"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="680.76666,-3138.9253"
+       orientation="0,1"
+       id="guide8610"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="330.76666,-2796.0682"
+       orientation="1,0"
+       id="guide10536"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,181)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="505.76666,-2853.211"
+       orientation="1,0"
+       id="guide10542"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,205)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4680.7666,-2838.9253"
+       orientation="0,1"
+       id="guide10544"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-116.37619,-2938.9253"
+       orientation="0,1"
+       id="guide10546"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-126.37619,-2738.9253"
+       orientation="0,1"
+       id="guide10548"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-194.99987,-2638.9253"
+       orientation="0,1"
+       id="guide10550"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.152466,-2788.9253"
+       orientation="0,1"
+       id="guide10554"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="155.76667,-2738.9253"
+       orientation="1,0"
+       id="guide10661"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,91)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="355.76666,-2720.711"
+       orientation="1,0"
+       id="guide10663"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="205.76667,-2738.9253"
+       orientation="1,0"
+       id="guide10665"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="405.76666,-2703.3251"
+       orientation="1,0"
+       id="guide10667"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="555.76666,-2738.9253"
+       orientation="1,0"
+       id="guide10673"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="605.76666,-2738.9253"
+       orientation="1,0"
+       id="guide10675"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="52.891559,-810.09712"
+       orientation="1,0"
+       id="guide12020"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8057">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.23333,6806.5632)">
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cdffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31.50964546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="bg"
+       cx="179.23335"
+       cy="-6646.563"
+       rx="160.00002"
+       ry="160" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.58823776px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1.88235307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="50.986736"
+       y="-6674.9707"
+       id="bolgeradyolari"><tspan
+         id="trt"
+         sodipodi:role="line"
+         x="50.986736"
+         y="-6674.9707"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:49.31889725px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#455052;fill-opacity:1;stroke-width:1.88235307px">TRT </tspan><tspan
+         sodipodi:role="line"
+         x="50.986736"
+         y="-6630.5835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.31889725px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';letter-spacing:0px;fill:#455052;fill-opacity:1;stroke-width:1.88235307px"
+         id="bolge">BÖLGE</tspan><tspan
+         id="radyosu"
+         sodipodi:role="line"
+         x="50.986736"
+         y="-6586.1968"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:49.31889725px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';letter-spacing:0px;fill:#455052;fill-opacity:1;stroke-width:1.88235307px">RADYOSU</tspan></text>
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       d="m 191.68695,-6585.2932 c 10.60338,0 17.80581,-7.0024 17.80581,-17.0056 0,-10.0034 -7.20243,-17.2054 -17.80581,-17.2054 -10.20306,0 -17.60556,7.202 -17.60556,17.2054 0,10.0032 7.4025,17.0056 17.60556,17.0056 z"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';opacity:1;fill:#529e6e;fill-opacity:1;stroke-width:1.89278555"
+       id="o" />
+    <g
+       id="g10775"
+       transform="matrix(1.8823532,0,0,1.882353,2625.7387,-1079.6173)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="85"
+         cy="-2688.6274"
+         cx="-339.20599"
+         id="circle10677"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cdffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-379.54413"
+         y="-2642.7478"
+         id="text10679"><tspan
+           sodipodi:role="line"
+           id="tspan10681"
+           x="-379.54413"
+           y="-2642.7478"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1">TRT</tspan><tspan
+           id="tspan10683"
+           sodipodi:role="line"
+           x="-379.54413"
+           y="-2629.6409"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1">BÖLGE</tspan><tspan
+           id="tspan10685"
+           sodipodi:role="line"
+           x="-379.54413"
+           y="-2616.5339"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1">RADYOSU</tspan></text>
+      <text
+         id="text10687"
+         y="-2726.03"
+         x="-350.13568"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#529e6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2726.03"
+           x="-350.13568"
+           sodipodi:role="line"
+           id="tspan10689"> çu-</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2686.03"
+           x="-350.13568"
+           sodipodi:role="line"
+           id="tspan10691">kur-</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2646.03"
+           x="-350.13568"
+           sodipodi:role="line"
+           id="tspan10693">ova</tspan></text>
+      <path
+         id="path10695"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#529e6e;fill-opacity:1"
+         d="m -338.16078,-2615.7683 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       id="g10787"
+       transform="matrix(1.8823532,0,0,1.882353,3335.7011,-1464.4385)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cdffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10697"
+         cx="-110.74847"
+         cy="-2686.0662"
+         r="85" />
+      <text
+         id="text10699"
+         y="-2643.5544"
+         x="-148.84196"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1"
+           y="-2643.5544"
+           x="-148.84196"
+           id="tspan10701"
+           sodipodi:role="line">TRT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1"
+           y="-2630.4475"
+           x="-148.84196"
+           sodipodi:role="line"
+           id="tspan10703">BÖLGE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1"
+           y="-2617.3406"
+           x="-148.84196"
+           sodipodi:role="line"
+           id="tspan10705">RADYOSU</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#529e6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-122.01995"
+         y="-2735.5095"
+         id="text10707"><tspan
+           id="tspan10709"
+           sodipodi:role="line"
+           x="-122.01995"
+           y="-2735.5095"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1">an-</tspan><tspan
+           id="tspan10711"
+           sodipodi:role="line"
+           x="-122.01995"
+           y="-2695.5095"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1">tal-</tspan><tspan
+           id="tspan10713"
+           sodipodi:role="line"
+           x="-122.01995"
+           y="-2655.5095"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1">ya</tspan></text>
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         d="m -107.20588,-2616.8272 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#529e6e;fill-opacity:1"
+         id="path10715" />
+    </g>
+    <g
+       id="g10799"
+       transform="matrix(1.8823532,0,0,1.882353,1406.8861,-1836.8323)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="85"
+         cy="-2690.1069"
+         cx="106.43439"
+         id="circle10717"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cdffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="51.892651"
+         y="-2654.8086"
+         id="text10719"><tspan
+           sodipodi:role="line"
+           id="tspan10721"
+           x="51.892651"
+           y="-2654.8086"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1">TRT</tspan><tspan
+           id="tspan10723"
+           sodipodi:role="line"
+           x="51.892651"
+           y="-2641.7017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1">BÖLGE</tspan><tspan
+           id="tspan10725"
+           sodipodi:role="line"
+           x="51.892651"
+           y="-2628.5947"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1">RADYOSU</tspan></text>
+      <text
+         id="text10727"
+         y="-2697.2048"
+         x="82.188789"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#529e6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2697.2048"
+           x="82.188789"
+           sodipodi:role="line"
+           id="tspan10729">trab-</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2657.2048"
+           x="82.188789"
+           sodipodi:role="line"
+           id="tspan10731">zon</tspan></text>
+      <path
+         id="path10733"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#529e6e;fill-opacity:1"
+         d="m 93.528816,-2628.0814 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       id="g10810"
+       transform="matrix(1.8823532,0,0,1.882353,1003.7762,-1080.6352)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cdffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10735"
+         cx="320.58649"
+         cy="-2688.0867"
+         r="85" />
+      <text
+         id="text10737"
+         y="-2642.6255"
+         x="279.92706"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1"
+           y="-2642.6255"
+           x="279.92706"
+           id="tspan10739"
+           sodipodi:role="line">TRT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1"
+           y="-2629.5186"
+           x="279.92706"
+           sodipodi:role="line"
+           id="tspan10741">BÖLGE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1"
+           y="-2616.4116"
+           x="279.92706"
+           sodipodi:role="line"
+           id="tspan10743">RADYOSU</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#529e6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="307.75909"
+         y="-2725.4893"
+         id="text10745"><tspan
+           id="tspan10747"
+           sodipodi:role="line"
+           x="307.75909"
+           y="-2725.4893"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1">er-</tspan><tspan
+           id="tspan10749"
+           sodipodi:role="line"
+           x="307.75909"
+           y="-2685.4893"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1">zu-</tspan><tspan
+           id="tspan10751"
+           sodipodi:role="line"
+           x="307.75909"
+           y="-2645.4893"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1">rum</tspan></text>
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         d="m 321.56322,-2615.8983 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#529e6e;fill-opacity:1"
+         id="path10753" />
+    </g>
+    <g
+       id="g10822"
+       transform="matrix(1.8823532,0,0,1.882353,2120.6656,-1852.0442)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="85"
+         cy="-2682.0256"
+         cx="534.73907"
+         id="circle10755"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cdffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="480.71295"
+         y="-2646.0129"
+         id="text10757"><tspan
+           sodipodi:role="line"
+           id="tspan10759"
+           x="480.71295"
+           y="-2646.0129"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1">TRT</tspan><tspan
+           id="tspan10761"
+           sodipodi:role="line"
+           x="480.71295"
+           y="-2632.906"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1">BÖLGE</tspan><tspan
+           id="tspan10763"
+           sodipodi:role="line"
+           x="480.71295"
+           y="-2619.7991"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:89.99999762%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1">RADYOSU</tspan></text>
+      <text
+         id="text10765"
+         y="-2729.5657"
+         x="510.89703"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#529e6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2729.5657"
+           x="510.89703"
+           sodipodi:role="line"
+           id="tspan10767">di-</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2689.5657"
+           x="510.89703"
+           sodipodi:role="line"
+           id="tspan10769"> yar-</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:50px;line-height:80.00000119%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:0px;fill:#529e6e;fill-opacity:1"
+           y="-2649.5657"
+           x="510.89703"
+           sodipodi:role="line"
+           id="tspan10771">bakır</tspan></text>
+      <path
+         id="path10773"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#529e6e;fill-opacity:1"
+         d="m 522.34902,-2619.2859 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       id="g10896"
+       transform="matrix(1.8823532,0,0,1.882353,-273.6187,-441.02118)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="85"
+         cy="-3229.7566"
+         cx="999.20245"
+         id="circle10856"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffefcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="937.96539"
+         y="-3200.6523"
+         id="text10858"><tspan
+           sodipodi:role="line"
+           id="tspan10860"
+           x="937.96539"
+           y="-3200.6523"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1">TRT</tspan><tspan
+           id="tspan10862"
+           sodipodi:role="line"
+           x="937.96539"
+           y="-3188.2734"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1">KENT</tspan><tspan
+           id="tspan10864"
+           sodipodi:role="line"
+           x="937.96539"
+           y="-3175.8948"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1">RADYO</tspan></text>
+      <text
+         id="text10866"
+         y="-3217.1448"
+         x="987.8736"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9f8850;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan10868"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#9f8850;fill-opacity:1"
+           y="-3217.1448"
+           x="987.8736"
+           sodipodi:role="line">iz-</tspan><tspan
+           id="tspan10870"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#9f8850;fill-opacity:1"
+           y="-3175.488"
+           x="987.8736"
+           sodipodi:role="line">mir</tspan></text>
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         d="m 979.42476,-3175.545 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#9f8850;fill-opacity:1"
+         id="path10890" />
+    </g>
+    <g
+       id="g10907"
+       transform="matrix(1.8823532,0,0,1.882353,522.64745,-828.62689)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffefcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10872"
+         cx="778.0611"
+         cy="-3225.7161"
+         r="85" />
+      <text
+         id="text10874"
+         y="-3196.6116"
+         x="720.37262"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1"
+           y="-3196.6116"
+           x="720.37262"
+           id="tspan10876"
+           sodipodi:role="line">TRT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans';fill:#455052;fill-opacity:1"
+           y="-3184.2327"
+           x="720.37262"
+           sodipodi:role="line"
+           id="tspan10878">KENT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1"
+           y="-3171.854"
+           x="720.37262"
+           sodipodi:role="line"
+           id="tspan10880">RADYO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a08950;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="772.08624"
+         y="-3254.8352"
+         id="text10882"><tspan
+           id="tspan10884"
+           sodipodi:role="line"
+           x="772.08624"
+           y="-3254.8352"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#a08950;fill-opacity:1">an-</tspan><tspan
+           id="tspan10886"
+           sodipodi:role="line"
+           x="772.08624"
+           y="-3213.1785"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#a08950;fill-opacity:1">ka-</tspan><tspan
+           id="tspan10888"
+           sodipodi:role="line"
+           x="772.08624"
+           y="-3171.522"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#a08950;fill-opacity:1">ra</tspan></text>
+      <path
+         id="path10892"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#a08950;fill-opacity:1"
+         d="m 762.32396,-3171.5044 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       id="g10919"
+       transform="matrix(1.8823532,0,0,1.882353,2076.6862,-1197.2184)"
+       style="opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffefcd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.73949814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle10834"
+         cx="558.10309"
+         cy="-3231.7769"
+         r="85" />
+      <text
+         id="text10836"
+         y="-3202.6726"
+         x="495.14236"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#455052;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#455052;fill-opacity:1"
+           y="-3202.6726"
+           x="495.14236"
+           id="tspan10838"
+           sodipodi:role="line">TRT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1"
+           y="-3190.2937"
+           x="495.14236"
+           sodipodi:role="line"
+           id="tspan10840"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans'"
+             id="tspan10842">KENT</tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.56329823px;line-height:85.00000238%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Light';fill:#455052;fill-opacity:1"
+           y="-3177.915"
+           x="495.14236"
+           sodipodi:role="line"
+           id="tspan10844">RADYO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:1.87px;word-spacing:0px;fill:#9f8850;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="542.97443"
+         y="-3260.7202"
+         id="text10846"><tspan
+           id="tspan10848"
+           sodipodi:role="line"
+           x="542.97443"
+           y="-3260.7202"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:1.87px;fill:#9f8850;fill-opacity:1"><tspan
+   id="tspan10850"
+   style="fill:#9f8850;fill-opacity:1">i</tspan>s-</tspan><tspan
+           id="tspan10852"
+           sodipodi:role="line"
+           x="542.97443"
+           y="-3219.0635"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:1.87px;fill:#9f8850;fill-opacity:1">tan-</tspan><tspan
+           id="tspan10854"
+           sodipodi:role="line"
+           x="542.97443"
+           y="-3177.407"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:56.29279327px;line-height:74.00000095%;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';letter-spacing:1.87px;fill:#9f8850;fill-opacity:1">bul</tspan></text>
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         d="m 536.65176,-3177.5653 c 3.2493,0 5.4564,-2.1458 5.4564,-5.2112 0,-3.0654 -2.2071,-5.2724 -5.4564,-5.2724 -3.1266,0 -5.395,2.207 -5.395,5.2724 0,3.0654 2.2684,5.2112 5.395,5.2112 z"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:90px;font-family:'Quiet Sans';-inkscape-font-specification:'Quiet Sans Ultra-Bold';fill:#a08950;fill-opacity:1"
+         id="path10894" />
+    </g>
+  </g>
+</svg>

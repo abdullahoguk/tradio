@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+  }
+
+.app{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.radioList{
+    max-width:720px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 2;
+}
+
+station-item{
+    margin:1em;
+    padding:1em;
+    width: 4em;
+    height: 4em;
+    background: rgb(3, 238, 255);
+}
+station-item > .name{
+    font-weight: 600;
+}
+
+radio-player{
+    width: 100%;
+    padding:1em;
+    background: rgb(0, 110, 255);
+    display: flex;
+}
+.current{
+
+}
