@@ -70,15 +70,17 @@ class RadioPlayer extends HTMLElement {
             </svg></div>
           `
           audio.play();
+          document.querySelector("title").innerText="▶ "+station.name+" - TRT Radyoları";
           this.setAttribute("style",`background-color:${station.darkColor}`)
           this.querySelector(".current").setAttribute("style",`color:${station.lightColor}`)
           if(newVal=="paused"){
-            this.querySelector(".play").setAttribute("style",`border-left-color:${station.lightColor}`)
-
+            this.querySelector(".play").setAttribute("style",`border-left-color:${station.lightColor}`);
           }
           else{
             this.querySelector(".play").setAttribute("style",`border-left-color:${station.lightColor}`)
           }
+
+          //set title
 
 
         }//on station change
