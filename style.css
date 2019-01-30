@@ -28,7 +28,7 @@ vector-logos *{display: none;}
 .radioList{
     margin: 0;
     max-width: 60vw;
-    padding:2em;
+    padding:1em;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -39,7 +39,7 @@ vector-logos *{display: none;}
 
 station-item{
     margin:.5em;
-    padding:1em;
+    padding:.1em;
     display: flex;
     flex-direction: column;
 }
@@ -71,8 +71,6 @@ radio-player[status=setup]>.playButtonContainer{
 radio-player[status=setup] .state{
     margin-left: 2em;
 }
-
-
 
 radio-player[status=paused]>.playButtonContainer>.play{
     border-style: solid;
@@ -148,5 +146,9 @@ span.state{
     .radioList{
         max-width: 100vw;
 
+    }
+
+    station-item > svg.logo{
+        width: 80px;
     }
 }
