@@ -1,33 +1,32 @@
-"use strict"
+"use strict";
 import "./station-item.js";
 import "./radio-player.js";
 import "./vector-logos.js";
-
 
 var stationsJSON;
 const radioListContainer = document.querySelector(".radioList");
 const appContainer = document.querySelector(".app");
 const logos = document.querySelector("vector-logos");
 
+document.addEventListener("load", main());
 
-document.addEventListener('load', main());
+async function main() {
+  await loadJSONAsync("data.json")
+    .then(data => {
+      stationsJSON = data.stations;
+    })
+    .catch(reason => console.log(`JSON okunurken hata: ${reason.message}`));
+  stationsJSON.trt.forEach(station => {
+    const el = document.createElement("station-item");
+    el.station = station;
+    radioListContainer.appendChild(el);
+  });
 
-async function main(){
-    await loadJSONAsync("data.json")
-      .then((data) => {stationsJSON = data.stations; })
-      .catch(reason => console.log(`JSON okunurken hata: ${reason.message}`))
-    stationsJSON.trt.forEach(station => {
-         const el = document.createElement("station-item");
-         el.station = station;
-         radioListContainer.appendChild(el);
-    });
-
-    const player = document.createElement("radio-player");
-         player.setAttribute("status","setup");
-         player.className = "player"
-         appContainer.appendChild(player);
-     
-};
+  const player = document.createElement("radio-player");
+  player.setAttribute("status", "setup");
+  player.className = "player";
+  appContainer.appendChild(player);
+}
 
 document.querySelector(".appLogo").innerHTML = `
     <svg  
@@ -42,18 +41,12 @@ document.querySelector(".appLogo").innerHTML = `
             version="1.1">
             ${logos.querySelector("#trtradyolari").innerHTML}
             </svg>
-`
-  
-function listRadioStations(data){
-};
+`;
 
+function listRadioStations(data) {}
 
-async function loadJSONAsync (url) {
-    let response = await fetch(url);
-    let data = await response.json();
-    return data;
+async function loadJSONAsync(url) {
+  let response = await fetch(url);
+  let data = await response.json();
+  return data;
 }
-  
-  
-
-
